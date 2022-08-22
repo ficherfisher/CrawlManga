@@ -46,7 +46,7 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 - fisher漫画网站
 
 <div align="center">
-<img src="./doc/img/index.png"  width = "600" height = "800" />
+<img src="./doc/img/index.png"  width = "800" height = "600" />
 </div>
 
 ## 漫画列表（更新中）
@@ -58,14 +58,14 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 |斗罗大陆漫画|2022-08-22 17:31:54|505 | ×|2022-09-19|[最新话505](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E6%96%97%E7%BD%97%E5%A4%A7%E9%99%86)|
 |斗破苍穹漫画|2022-08-21 17:42:56|532 | ×|2022-09-01|[最新话532](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E6%96%97%E7%A0%B4%E8%8B%8D%E7%A9%B9)|
 |一人之下漫画|2022-08-12|618| ×|2022-09-01|[最新话618](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B)|
-|ONE PIECE航海王|2022-08-06|1057 | ×|2022-09-01|[最新话1057](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|国王排名|2022-08-09|104 | ×|2022-09-01|[最新话104](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|间谍过家家|2022-08-09|77 | ×|2022-09-01|[最新话77](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|一拳超人|2022-08-21|234 | ×|2022-09-18|[最新话234](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|咒术回战|2022-08-21|195 | ×|2022-09-01|[最新话195](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|重生之都市修仙漫画|2022-08-21|815 | ×|2022-09-01|[最新话815 ](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|三月的狮子|2021-11-15|185 | ×|2022-09-01|[最新话185](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
-|镇魂街|2022-07-15|375 | ×|2022-09-01|[最新话375](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|ONE PIECE航海王|2022-08-06|1057 | ×|2022-09-01|[最新话1057](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E6%B5%B7%E8%B4%BC%E7%8E%8B)|
+|国王排名|2022-08-09|104 | ×|2022-09-01|[最新话104](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E5%9B%BD%E7%8E%8B%E6%8E%92%E5%90%8D)|
+|间谍过家家|2022-08-09|77 | ×|2022-09-01|[最新话77](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E9%97%B4%E8%B0%8D%E8%BF%87%E5%AE%B6%E5%AE%B6)|
+|一拳超人|2022-08-21|234 | ×|2022-09-18|[最新话234](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%B8%80%E6%8B%B3%E8%B6%85%E4%BA%BA)|
+|咒术回战|2022-08-21|195 | ×|2022-09-01|[最新话195](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98)|
+|重生之都市修仙漫画|2022-08-21|815 | ×|2022-09-01|[最新话815 ](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E9%87%8D%E7%94%9F%E4%B9%8B%E9%83%BD%E5%B8%82%E4%BF%AE%E4%BB%99%E6%BC%AB%E7%94%BB)|
+|三月的狮子|2021-11-15|185 | ×|2022-09-01|[最新话185](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%B8%89%E6%9C%88%E7%9A%84%E7%8B%AE%E5%AD%90)|
+|镇魂街|2022-07-15|375 | ×|2022-09-01|[最新话375](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E9%95%87%E9%AD%82%E8%A1%97)|
 
 
 
