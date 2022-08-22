@@ -46,7 +46,7 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 - fisher漫画网站
 
 <div align="center">
-<img src="./doc/img/index.png"  width = "800" height = "600" />
+<img src="./doc/img/index.png"  width = "800" height = "400" />
 </div>
 
 ## 漫画列表（更新中）
