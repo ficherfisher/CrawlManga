@@ -54,7 +54,22 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 |漫画|更新时间|最新话|是否更新|下次更新时间|网址|
 |------------|---------------|----------------|----|----------|----------|
 |传武漫画|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|从前有座灵剑山漫画|2022-08-21 17:43:08|806 | ×|2022-09-18|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|斗罗大陆漫画|2022-08-22 17:31:54|505 | ×|2022-09-19|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|斗破苍穹漫画|2022-08-21 17:42:56|532 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|一人之下漫画|2022-08-12|618| ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|ONE PIECE航海王|2022-08-06|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|国王排名|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|间谍过家家|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|一拳超人|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|咒术回战|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|重生之都市修仙漫画|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|三月的狮子|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
+|镇魂街|2022-08-15|306 | ×|2022-09-01|[最新话306](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E4%BC%A0%E6%AD%A6)|
 
-更多漫画可以联系作者(yupengxiong87@gmail.com))
+
+
+
+更多漫画可以联系作者(yupengxiong87@gmail.com)
 
 
