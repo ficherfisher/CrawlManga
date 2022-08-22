@@ -58,10 +58,10 @@ def upload(file_path):
         if judge_upload(source_):
             if i not in change_dict:
                 change_dict[i] = i
-                connect_server1 = connect_server('47.111.9.53', 22, 'root', '2920151643xyp?')
+                connect_server1 = connect_server('host', 22, 'username', 'password',)
                 connect_server1.mkdir(server_path + change_dict[i])
             target_ = server_path + change_dict[i]
-            uploader = ParamikoFolderUploader('47.111.9.53', 22, 'root', '2920151643xyp?', source_, target_)
+            uploader = ParamikoFolderUploader('host', 22, 'username', 'password', source_, target_)
             uploader.upload()
             _del_all_file(source_, os.listdir(source_))
         fp_yaml_config = open(os.path.join(os.path.dirname(__file__), "config.yaml"), "w", encoding="utf-8")

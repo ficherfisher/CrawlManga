@@ -90,5 +90,5 @@ class ParamikoFolderUploader:
 if __name__ == '__main__':
     source_ = r"D:\programmeProject\pycharmProject\scrapy\maoflymanhua\maoflymanhua\images\落第骑士的英雄谭"
     target_ = r"/home/admin/cartoon/cartoon-cat-server-master/public/store/落第骑士英雄谭"
-    uploader = ParamikoFolderUploader('47.111.9.53', 22, 'root', '2920151643xyp?', source_, target_)
+    uploader = ParamikoFolderUploader('host', 22, 'username', 'password', source_, target_)
     uploader.upload()
