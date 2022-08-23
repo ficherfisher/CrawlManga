@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/github/v/release/PaddlePaddle/PaddleOCR?color=ffa"></a>
     <a href=""><img src="https://img.shields.io/badge/python-3.7+-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/os-linux%2C%20win-pink.svg"></a>
+    <a href=""><img src="https://img.shields.io/badge/scrapy-2.6.1-green.svg"></a>
     # todo 添加scrapy 等信息
 </p>
 
