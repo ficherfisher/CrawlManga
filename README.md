@@ -1,4 +1,4 @@
-[English](README.md) | 简体中文
+[English](./doc/readme_en.md) | 简体中文
 
 <p align="center">
  <img src="./doc/img/index.png" align="middle" width = "600"/>
