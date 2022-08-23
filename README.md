@@ -10,7 +10,6 @@
     <a href=""><img src="https://img.shields.io/badge/python-3.7+-aff.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/os-linux%2C%20win-pink.svg"></a>
     <a href=""><img src="https://img.shields.io/badge/scrapy-2.6.1-green.svg"></a>
-    # todo 添加scrapy 等信息
 </p>
 
 
@@ -71,5 +70,34 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 
 
 更多漫画可以联系作者(yupengxiong87@gmail.com)
+
+
+## 文档教程
+- [运行环境准备](./doc/environment.md)
+- [快速开始](./doc/quickstart.md)
+- 漫画网址爬虫
+    - [xingqiuManga爬虫]()
+        - [scrapy](./xingqiuManga/xingManga.md)
+    - [maoflyManga爬虫]()
+        - [scrapy](./maoflyManga/maoflyManga.md)
+- 上传文件服务器
+    - [uploadServer]()
+        - [上传文件](./uploadServer/uploadServer.md)
+        - [断点重传]()
+- [联系作者](yupengxiong87@gmail.com)
+
+
+## PP-OCRv2 Pipeline
+<div align="center">
+    <img src="./doc/ppocrv2_framework.jpg" width="800">
+</div>
+
+[1] PP-OCR是一个实用的超轻量OCR系统。主要由DB文本检测、检测框矫正和CRNN文本识别三部分组成。该系统从骨干网络选择和调整、预测头部的设计、数据增强、学习率变换策略、正则化参数选择、预训练模型使用以及模型自动裁剪量化8个方面，采用19个有效策略，对各个模块的模型进行效果调优和瘦身(如绿框所示)，最终得到整体大小为3.5M的超轻量中英文OCR和2.8M的英文数字OCR。更多细节请参考PP-OCR技术方案 https://arxiv.org/abs/2009.09941
+
+[2] PP-OCRv2在PP-OCR的基础上，进一步在5个方面重点优化，检测模型采用CML协同互学习知识蒸馏策略和CopyPaste数据增广策略；识别模型采用LCNet轻量级骨干网络、UDML 改进知识蒸馏策略和Enhanced CTC loss损失函数改进（如上图红框所示），进一步在推理速度和预测效果上取得明显提升。更多细节请参考PP-OCRv2[技术报告](https://arxiv.org/abs/2109.03144)。
+
+
+
+
 
 
