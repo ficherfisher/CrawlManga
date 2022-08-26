@@ -22,7 +22,7 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 - 添加针对maofly漫画网站的爬虫maoflyManga (https://www.maofly.com/)
 - 添加针对xingqiu漫画网站的爬虫xingqiuManga (http://m.mhxqiu1.com/)
 - 添加将本地文件上传到服务器的代码(https://github.com/ficherfisher/CrawlManga/blob/master/uploadServer/uploadServer.md)
-- [More](https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.2/doc/doc_ch/update.md)
+- [More](http://fisherficher.xyz/)
 
 ## 特性
 
@@ -37,6 +37,8 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 <div align="center">
     <img src="./doc/img/show1.png" width="400">
     <img src="./doc/img/show2.png" width="400">
+    <img src="./doc/img/show3.png" width="400">
+    <img src="./doc/img/show4.png" width="400">
 </div>
 
 上图是通用PP-OCR server模型效果展示，更多效果图请见[效果展示页面](http://fisherficher.xyz:3000/)。
