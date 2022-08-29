@@ -89,11 +89,12 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 
 ## 漫画爬虫Pipeline
 <div align="center">
-    <img src="./doc/img/show5.png" width="800">
+    <img src="./doc/img/show5.jpg" width="800">
 </div>
 
-[1] 漫画爬虫pipeline
-[2] 上传文件upload
+[1] 漫画爬虫(xingqiuManga, maoflyManga)是一个实用的简单scrapy框架爬虫，主要由start_url,middleware,解析器,download下载器四部分组成，用户只需要提供该网站(两个网站对应所需要爬取的漫画某一章节url)即可下载，同时支持断点下载。
+
+[2] uploadServer器，一个简单的上传文件框架，支持断点续传。
 
 
 
