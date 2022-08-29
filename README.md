@@ -69,8 +69,6 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 |镇魂街|2022-07-15|375 | ×|2022-09-01|[最新话375](http://fisherficher.xyz:3000/cartoon.html?cartoon=%E9%95%87%E9%AD%82%E8%A1%97)|
 
 
-
-
 更多漫画可以联系作者(yupengxiong87@gmail.com)
 
 
@@ -91,7 +89,7 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
 
 ## 漫画爬虫Pipeline
 <div align="center">
-    <img src="./doc/img/show3.png" width="800">
+    <img src="./doc/img/show5.png" width="800">
 </div>
 
 [1] 漫画爬虫pipeline
