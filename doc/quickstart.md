@@ -46,7 +46,7 @@ CrawlManaga提供了一系列测试网站及其测试的url，点击[这里](/xi
 
 <a name="211"></a>
 #### 2.1.1 maoflyManaga使用
-```
+```bash
 cd maoflyManga
 conda activate env
 python start_maofly_spider.py
@@ -66,7 +66,7 @@ ONE PIECE航海王: https://www.maofly.com/manga/5668/612445.html
 
 <a name="212"></a>
 #### 2.1.2 xingqiuManaga使用
-```
+```bash
 cd xingqiuManga
 conda activate env
 python start_xingqiu_spider.py
@@ -113,22 +113,25 @@ uploadServer提供了一系列测试文件夹，点击[这里](/xingqiuManga/xin
 
 <a name="211"></a>
 #### 2.1.1 maoflyManaga使用
-```
+```c
 cd uploadServer
 conda activate env
 python upload_server.py
 ```
 
-如果不使用提供的测试文件夹，可以修改config_url.yaml文件，添加对应的漫画名及其开始的url
-例如：
+如果不使用提供的测试文件夹，注释掉测试文件夹部分代码如下：
 
-```
-ONE PIECE航海王: https://www.maofly.com/manga/5668/612445.html
-一拳超人: https://www.maofly.com/manga/7054/612375.html
-咒术回战: https://www.maofly.com/manga/32670/612664.html
-国王排名: https://www.maofly.com/manga/41341/610373.html
-间谍过家家: https://www.maofly.com/manga/10127/610509.html
-漫画名：url
+```python
+# 测试文件夹
+"""
+upload_list = [r"D:\programmeProject\pycharmProject\CrawlManga\maoflymanhua\maoflymanhua",
+               r"D:\programmeProject\pycharmProject\CrawlManga\xingqiumanhua\xingqiumanhua"]
+for i in upload_list:
+    produce_index(i)   # 测试文件
+    upload(os.path.join(i, "images"))
+"""
+# 自定义文件夹
+upload("dirname")
 ```
 
 
