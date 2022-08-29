@@ -83,9 +83,13 @@ def produce_index(file_path):
 
 
 if __name__ == '__main__':
+    # 测试文件夹
     upload_list = [r"D:\programmeProject\pycharmProject\CrawlManga\maoflymanhua\maoflymanhua",
                    r"D:\programmeProject\pycharmProject\CrawlManga\xingqiumanhua\xingqiumanhua"]
     for i in upload_list:
-        produce_index(i)
+        produce_index(i)   # 测试文件
         upload(os.path.join(i, "images"))
+
+    # 自定义文件夹
+    # upload("dirname")
 
