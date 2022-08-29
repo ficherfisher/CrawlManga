@@ -41,7 +41,7 @@ CrawlManga 包含多个漫画爬虫，以及将下载的漫画上传到远端服
     <img src="./doc/img/show4.png" width="400">
 </div>
 
-上图是通用PP-OCR server模型效果展示，更多效果图请见[效果展示页面](http://fisherficher.xyz:3000/)。
+上图是通用模型效果展示，更多效果图请见[效果展示页面](http://fisherficher.xyz:3000/)。
 
 ## 快速体验
 - fisher漫画网站
