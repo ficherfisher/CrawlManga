@@ -83,8 +83,8 @@ def produce_index(file_path):
 
 
 if __name__ == '__main__':
-    upload_list = [r"D:\programmeProject\pycharmProject\scrapy\maoflymanhua\maoflymanhua",
-                   r"D:\programmeProject\pycharmProject\scrapy\xingqiumanhua\xingqiumanhua"]
+    upload_list = [r"D:\programmeProject\pycharmProject\CrawlManga\maoflymanhua\maoflymanhua",
+                   r"D:\programmeProject\pycharmProject\CrawlManga\xingqiumanhua\xingqiumanhua"]
     for i in upload_list:
         produce_index(i)
         upload(os.path.join(i, "images"))
