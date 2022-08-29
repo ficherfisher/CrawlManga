@@ -1,7 +1,7 @@
 # 漫画网站爬虫快速开始
 
 
-- [PaddleOCR快速开始](#paddleocr)
+- [快速开始](#paddleocr)
 
   + [1. 安装scrapy包以及相关配置包](#1)
   * [2. 便捷使用](#2)
@@ -81,8 +81,8 @@ python start_xingqiu_spider.py
 # 上传文件快速开始
 
 
-- [PaddleOCR快速开始](#paddleocr)
-  + [1. 安装scrapy包以及相关配置包](#1)
+- [快速开始](#paddleocr)
+  + [1. 相关配置包](#1)
   * [2. 便捷使用](#2)
     + [2.1 命令行使用](#21)
       - [2.1.1 maoflyManga](#211)
@@ -94,26 +94,18 @@ python start_xingqiu_spider.py
 
 <a name="1"></a>
 
-## 1. 安装scrapy包
+## 1. 相关配置
 
-```bash
-pip install "scrapy>=2.5.1" # 推荐使用2.5.1+版本
-```
-
-- 对于Windows环境用户：
-
-  直接通过pip安装的scrapy库可能出现`[winRrror 126] 找不到指定模块的问题`。原因是安装twist模块出现问题，建议从[这里]()下载twist安装包完成安装(注意版本匹配)
-
-- 安装其他库
+- 安装相关库
 
   ```bash
   pip install -r requirement.txt
   """
-  itemadapter==0.3.0
+  paramiko==2.8.1
   PyYAML==6.0
   requests==2.27.1
-  Scrapy==2.6.1
   selenium==4.4.3
+  tqdm==4.64.0
   """
   ```
 - 安装chrome浏览器和driverchrome驱动
